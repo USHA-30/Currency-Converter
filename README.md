@@ -27,13 +27,13 @@ live link :
 
 ## 📂 Project Structure :  <br>
 Currency-Converter/<br>
-├── index.html        # Main HTML file<br>
+├── index.html   \t     # Main HTML file<br>
 ├── css/<br>
-│   └── cc.css    # Styling file<br>
+│   └── cc.css \t   # Styling file<br>
 ├── js/ <br>
-│   ├── cc.js        # Main app logic<br>
-│   ├── code.js       # Contains country and currency codes<br>
-└── README.md         # Documentation<br>
+│   ├── cc.js   \t     # Main app logic<br>
+│   ├── code.js  \t     # Contains country and currency codes<br>
+└── README.md    \t     # Documentation<br>
 
 ---------------------------------------------------
 
